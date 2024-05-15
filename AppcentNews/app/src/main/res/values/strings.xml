@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Appcent NewsApp</string>
+
+    <!--- Base Words -->
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="news_source">Go to news source</string>
+    <string name="share_news">Share News</string>
+
+
+    <!--- Lorem Ipsum -->
+    <string name="lorem_ipsum_5_words">Lorem ipsum dolor sit amet. </string>
+    <string name="lorem_ipsum_10_words">Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet. </string>
+    <string name="lorem_ipsum_1_paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet dolor id turpis tempus viverra vel in magna. Vestibulum id magna nisi. Fusce egestas iaculis est, vel dictum metus efficitur tincidunt. Maecenas sodales scelerisque lacus. Curabitur at arcu urna. Quisque quis malesuada tortor. Sed finibus interdum sapien nec pretium. Nam ac ligula in nulla vehicula ultrices ut et orci. Phasellus ultrices fringilla tempor. </string>
+    <string name="type_a_text">Type a text</string>
+</resources>
